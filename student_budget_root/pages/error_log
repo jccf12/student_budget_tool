@@ -1,0 +1,5 @@
+[13-Jul-2018 11:49:49 America/Chicago] PHP Parse error:  syntax error, unexpected ''</b> each month'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/edcom463/public_html/fdgabriel.com/test/year1/y1p3.php on line 115
+[13-Jul-2018 11:50:01 America/Chicago] PHP Parse error:  syntax error, unexpected '' each month'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/edcom463/public_html/fdgabriel.com/test/year1/y1p3.php on line 115
+[13-Jul-2018 11:50:13 America/Chicago] PHP Parse error:  syntax error, unexpected ''</b> each month'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/edcom463/public_html/fdgabriel.com/test/year1/y1p3.php on line 115
+[19-Jul-2018 10:26:58 America/Chicago] PHP Parse error:  syntax error, unexpected '$annual_balance' (T_VARIABLE) in /home/edcom463/public_html/fdgabriel.com/test/pages/y1p3.php on line 31
+[19-Jul-2018 10:29:28 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/edcom463/public_html/fdgabriel.com/test/pages/y1p3.php on line 197
